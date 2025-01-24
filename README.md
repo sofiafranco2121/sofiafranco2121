@@ -4,8 +4,8 @@ Additionally, I have experience in customer service, lead generation, social med
 Skills:
 Frontend: React, Redux, TypeScript, JavaScript, HTML/CSS
 Backend: Node.js (Express), Nest.js, Spring Boot, Java
-Bases de datos: PostgreSQL, MySQL, MongoDB
-Otras herramientas: GitHub, Apollo, Instantly, AI Tools, Mailchimp, Monday CRM 
+Database: PostgreSQL, MySQL, MongoDB
+Other tools: GitHub, Apollo, Instantly, AI Tools, Mailchimp, Monday CRM 
 
 
 Contact me! Email: sofiavictoriafranco2121@gmail.com
