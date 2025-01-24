@@ -1,11 +1,11 @@
-Hello! My name is Sofía Franco. I am a Full Stack developer, currently pursuing a Bachelor's degree in Systems Analysis at the National University of Salta.
+Full Stack Developer and Technical Programming Degree student. I have hands-on experience in full stack projects, working with Front-end, Back-end technologies, and databases. I am proficient in agile methodologies (Scrum).
+Additionally, I have experience in customer service, lead generation, social media advertising strategies, data entry, and email marketing. I am proactive, organized, and focused on efficiently solving problems while continuously learning new tools and approaches. My goal is to grow professionally by delivering creative and high-quality solutions.
 
-My goal is to gain experience, learn new things, and enhance my professional career. I am looking for my first work experience that will empower me as a programmer.
+Skills:
+Frontend: React, Redux, TypeScript, JavaScript, HTML/CSS
+Backend: Node.js (Express), Nest.js, Spring Boot, Java
+Bases de datos: PostgreSQL, MySQL, MongoDB
+Otras herramientas: GitHub, Apollo, Instantly, AI Tools, Mailchimp, Monday CRM 
 
-I stand out for being proactive, responsible, having a high tolerance for frustration, constantly learning new technologies, and always seeking ways to improve what I have learned.
-
-I am committed to continuously learning and improving to excel at my work, as well as deliver significant benefits to the company.
-
-Skills: JavaScript | CSS | HTML | React | Redux | Node.js | SQL | NoSQL
 
 Contact me! Email: sofiavictoriafranco2121@gmail.com
